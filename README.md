@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/benoitboime0230/batavik/_apis/build/status/benoitboime.pipelines-java%20(1)?branchName=master)](https://dev.azure.com/benoitboime0230/batavik/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
